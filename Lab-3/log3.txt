@@ -1,0 +1,54 @@
+
+Select Employee Type to add:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Display
+6. Exit
+Enter choice: >> Choice: 1
+Enter Employee Name: >> Name: Sanjay
+Enter Employee ID: >> Employee ID: 101
+Enter Address: >> Address: B1 Ags Colony
+Enter Email: >> Email: notsanjay1@gmail.com
+Enter Mobile Number: >> Mobile: 7010928806
+Enter Basic Pay: >> Basic Pay: 100000.0
+Employee added successfully!
+
+Select Employee Type to add:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Display
+6. Exit
+Enter choice: >> Choice: 5
+
+--- All Employees Details ---
+Employee ID: 101
+Name: Sanjay
+Address: B1 Ags Colony
+Email: notsanjay1@gmail.com
+Mobile: 7010928806
+-------------------------
+Select Employee Type to add:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Display
+6. Exit
+Enter choice: >> Choice: 6
+Exiting program.
+
+--- Employee Pay Slips ---
+Employee ID: 101
+Name: Sanjay
+Address: B1 Ags Colony
+Email: notsanjay1@gmail.com
+Mobile: 7010928806
+Designation: Programmer
+Basic Pay: 100000.0
+Gross Salary: 112000.0
+Net Salary: 105280.0
+-------------------------
