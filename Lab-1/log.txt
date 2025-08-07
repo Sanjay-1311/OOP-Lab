@@ -1,0 +1,39 @@
+Enter first number: INPUT a: 32
+Enter second number: INPUT b: 42
+OUTPUT Sum: 74
+OUTPUT Difference: -10
+Enter first number: INPUT a: 32
+Enter second number: INPUT b: 42
+OUTPUT Sum: 74
+OUTPUT Difference: -10
+Enter first number: 
+INPUT a: 32
+Enter first number: 
+INPUT a: 32
+Enter second number: 
+INPUT b: 21
+OUTPUT Sum: 53
+OUTPUT Difference: 11
+INPUT Consumer Number: 54
+INPUT Consumer Name: hjh
+INPUT Previous Month Reading: 778.0
+INPUT Current Month Reading: 888.0
+INPUT Connection Type: domestic
+OUTPUT EB Bill: 125.0
+INPUT Consumer Number: 32
+INPUT Consumer Name: dsds
+INPUT Previous Month Reading: 543.0
+INPUT Current Month Reading: 4355.0
+INPUT Connection Type: commercial
+OUTPUT EB Bill: 25634.0
+INPUT Consumer Number: 324
+INPUT Consumer Name: Rahul
+INPUT Previous Month Reading: 343.0
+INPUT Current Month Reading: 454.0
+INPUT Connection Type: commercial
+OUTPUT EB Bill: 249.5
+INPUT Consumer Number: 3
+INPUT Consumer Name: sad
+INPUT Previous Month Reading: 4534.0
+INPUT Current Month Reading: 45333.0
+ERROR: Invalid input or connection type.
