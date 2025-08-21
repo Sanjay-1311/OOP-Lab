@@ -52,3 +52,57 @@ Basic Pay: 100000.0
 Gross Salary: 112000.0
 Net Salary: 105280.0
 -------------------------
+Select Employee Type to add:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Display
+6. Exit
+Enter choice: >> Choice: 2
+Enter Employee Name: >> Name: Rahul
+Enter Employee ID: >> Employee ID: 222
+Enter Address: >> Address: B1
+Enter Email: >> Email: rah2Sanj@gmail.com
+Enter Mobile Number: >> Mobile: 8072744158
+Enter Basic Pay: >> Basic Pay: 100000.0
+Employee added successfully!
+
+Select Employee Type to add:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Display
+6. Exit
+Enter choice: >> Choice: 5
+
+--- All Employees Details ---
+Employee ID: 222
+Name: Rahul
+Address: B1
+Email: rah2Sanj@gmail.com
+Mobile: 8072744158
+-------------------------
+Select Employee Type to add:
+1. Programmer
+2. Assistant Professor
+3. Associate Professor
+4. Professor
+5. Display
+6. Exit
+Enter choice: >> Choice: 6
+Exiting program.
+
+--- Employee Pay Slips ---
+Employee ID: 222
+Name: Rahul
+Address: B1
+Email: rah2Sanj@gmail.com
+Mobile: 8072744158
+Designation: Assistant Professor
+Basic Pay: 100000.0
+Gross Salary: 110000.0
+Net Salary: 104500.0
+-----------------------------------
+-------------------------
