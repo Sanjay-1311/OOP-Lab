@@ -1,0 +1,10 @@
+Prompt: Select main option (1-4)
+User selected main option: 1
+Prompt: Select currency conversion option (1-6)
+User selected currency option: 1
+Input dollars: 23.0
+Output INR: 2015.48
+Prompt: Select main option (1-4)
+User selected main option: 2
+Prompt: Select distance conversion option (1-4)
+User selected distance option: 4
