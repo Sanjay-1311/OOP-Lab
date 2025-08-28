@@ -8,10 +8,6 @@ import java.util.Scanner;
 
 public class StackADT {
 
-    /**
-     * A simple static nested logger class to write terminal text to a log file.
-     * By nesting it, we avoid needing a separate .java file.
-     */
     public static class LogWriter {
         private static PrintWriter writer;
 
@@ -47,7 +43,7 @@ public class StackADT {
             }
         }
     }
-    // --- End of nested LogWriter class ---
+
 
 
     private static void logAndPrint(String message) {
