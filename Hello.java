@@ -50,7 +50,7 @@ public class Hello{
  			
  				
  			
- 			
+ 			sc.close();
  			
 	}
 }

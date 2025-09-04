@@ -191,5 +191,6 @@ private static void writer(String message) {
 if (logWriter != null) {
 logWriter.println(message);
 }
+
 }
 }

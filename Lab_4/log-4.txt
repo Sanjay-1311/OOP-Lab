@@ -259,3 +259,143 @@ Exception: Cannot push to stack. Maximum capacity of 10 reached.
 Choice: 4
 Program exiting...
 --- Log Session Ended: 2025-08-28 09:34:39 ---
+
+--- Log Session Started: 2025-08-28 10:21:59 ---
+Enter initial stack size: 5
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 10
+'10' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: sanjay
+'sanjay' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 3
+'3' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 4
+'4' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 5
+'5' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 6
+'6' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 6
+'6' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 9
+'9' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 10
+'10' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 3
+Stack elements (top to bottom): [ 10, 9, 6, 6, 5, 4, 3, sanjay, 10 ]
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 23
+'23' pushed to stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 1
+Enter value to push: 23
+Exception: Cannot push to stack. Maximum capacity of 10 reached.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'23' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'10' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'9' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'6' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'6' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 3
+Stack elements (top to bottom): [ 5, 4, 3, sanjay, 10 ]
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'5' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'4' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'3' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'sanjay' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+'10' popped from stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 2
+Exception: Cannot pop from empty stack.
+
+--- Stack Menu ---
+1. Push  2. Pop 3. Display 4. Exit
+Choice: 4
+Program exiting...
+--- Log Session Ended: 2025-08-28 10:22:51 ---
