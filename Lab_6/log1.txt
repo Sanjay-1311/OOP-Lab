@@ -1,0 +1,16 @@
+
+--- Shape Details ---
+Enter the length of the rectangle
+Enter the breadth of the rectangle
+Shape:Rectangle area:276.0
+The rectangle is Red
+
+Enter the length of the Triangle
+Enter the height of the triangle
+Shape:Triangle area:264.5
+The Triangle is Purple
+
+Enter the radius of the circle
+Shape:Circle area:1661.0600000000002
+The circle is Yellow
+
