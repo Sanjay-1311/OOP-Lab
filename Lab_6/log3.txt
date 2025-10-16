@@ -1,0 +1,14 @@
+
+--- Log Session Started: 2025-10-15 21:46:51 ---
+
+--- Shape Details ---
+Shape:Rectangle area:50.0
+The rectangle is Blue
+
+Shape:Triangle area:16.0
+The Triangle is Purple
+
+Shape:Circle area:28.259999999999998
+The circle is Green
+
+--- Log Session Ended: 2025-10-15 21:46:51 ---

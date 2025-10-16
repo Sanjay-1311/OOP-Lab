@@ -1,0 +1,11 @@
+
+--- Log Session Started: 2025-10-15 21:48:50 ---
+Enter employee name: INPUT employee name: Sanjay
+Enter base salary: INPUT base salary: 45000.0
+Is this employee a manager? (yes/no): INPUT is manager: yes
+Enter manager bonus: INPUT manager bonus: 200.0
+
+--- Salary Details ---
+Employee Name: Sanjay
+Total Salary: 45200.0
+--- Log Session Ended: 2025-10-15 21:50:21 ---

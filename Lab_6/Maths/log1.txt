@@ -1,0 +1,16 @@
+
+--- Log Session Started: 2025-10-15 21:50:45 ---
+Enter two integers: INPUT two integers: 23, 30
+Called sum(int, int)
+Sum of 2 ints: 53
+Enter three doubles: INPUT three doubles: 23.0, 22.0, 12.3
+Called sum(double, double, double)
+Sum of 3 doubles: 57.3
+Enter how many integers to sum (varargs): INPUT varargs count: 3
+Enter 3 integers:
+INPUT varargs value[0]: 1
+INPUT varargs value[1]: 2
+INPUT varargs value[2]: 3
+Called sum(int...)
+Sum using varargs: 6
+--- Log Session Ended: 2025-10-15 21:50:54 ---
