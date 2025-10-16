@@ -1,0 +1,8 @@
+Enter size: 30
+success
+Enter size: -2
+size must be bigger than 0
+Enter size: sa
+invalid, enter integer
+Enter size: 4.2
+invalid, enter integer

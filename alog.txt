@@ -1,0 +1,30 @@
+
+checking age: 15
+caught unchecked exception: age 15 is below 18. not eligible to vote.
+
+checking age: 25
+age 25 is eligible to vote.
+
+checking age: 130
+caught checked exception: age 130 is unrealistic.
+
+checking age: 15
+caught unchecked exception: age 15 is below 18. not eligible to vote.
+
+checking age: 25
+age 25 is eligible to vote.
+
+checking age: 130
+caught checked exception: age 130 is unrealistic.
+
+checking age: 17
+caught unchecked exception: age 17 is below 18. not eligible to vote.
+
+checking age: 22
+age 22 is eligible to vote.
+
+checking age: 12
+caught unchecked exception: age 12 is below 18. not eligible to vote.
+
+checking age: 99
+age 99 is eligible to vote.

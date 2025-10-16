@@ -1,0 +1,7 @@
+amount cant be higher than balance, failed for: 600.0
+success for amount of: 300.0
+amount cant be higher than balance, failed for: 600.0
+success for amount of: 300.0
+amount cant be higher than balance, failed for: 600.0
+success for amount of: 300.0
+success for amount of: 200.0
